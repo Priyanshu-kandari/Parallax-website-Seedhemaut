@@ -59,7 +59,7 @@ h1 {
 
 /* Section with image background */
 section {
-  background-image: url(../media/tbsmextended.jpg);
+  background-image: url(media/tbsmextended.jpg);
   object-fit: cover;
   padding: 0;
   background-size: cover;
@@ -128,7 +128,7 @@ section {
 
 /* Career background image */
 .bg1 {
-  background-image: url(../media/career.jpg);
+  background-image: url(media/career.jpg);
   background-attachment: fixed;
   background-size: cover;
   background-position: center;
@@ -136,7 +136,7 @@ section {
 
 /* Vision background image */
 .bg2 {
-  background-image: url(../media/vision.jpg);
+  background-image: url(media/vision.jpg);
   background-attachment: fixed;
   background-size: cover;
   background-position: center;
@@ -144,7 +144,7 @@ section {
 
 /* Discography background */
 .background2 {
-  background-image: url(../media/seedhemaut.jpg);
+  background-image: url(media/seedhemaut.jpg);
   background-size: 140%;
   background-position: center;
   z-index: -2;
